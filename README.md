@@ -1,3 +1,1 @@
-# Sample Documentation
-
-This repo contains documentation samples from my previous employer. 
+# Sample Documentation: This repo contains documentation samples of the modules.<br>
